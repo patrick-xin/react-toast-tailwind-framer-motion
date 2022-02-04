@@ -1,6 +1,10 @@
-# Next.js + Tailwind CSS + Typescript Starter
+# React Toast with tailwind
 
-Simply run
-```bash
+run 
+```bash 
 yarn
+``` 
+then 
+```bash 
+yarn dev
 ```
